@@ -1,4 +1,2 @@
-# Nothingissafe
-# Noneed
-# Portfolio
+Learning python during training (;
 # Python
